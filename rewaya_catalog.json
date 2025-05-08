@@ -1,32 +1,14 @@
 {
   "values": [
-    {
-      "id": "hafs_an_assem", 
-      "name": {
-        "value": "Hafs An Assem",
-        "synonyms": [
-          "Hafs"
-        ]
-      }
-    },
-    {
-      "id": "warsh_an_nafi",
-      "name": {
-        "value": "Warsh An Nafi",
-        "synonyms": [
-          "Warsh"
-        ]
-      }
-    },
-    {
-      "id": "qalun_an_nafi",
-      "name": {
-        "value": "Qalun An Nafi",
-        "synonyms": [
-          "Qalun"
-        ]
-      }
-    }
-    // ... other rewayas
+    { "id": "hafs", "name": { "value": "Hafs An Assem" } },
+    { "id": "warsh", "name": { "value": "Warsh An Nafi" } },
+    { "id": "qalon", "name": { "value": "Qalon An Nafi" } },
+    { "id": "assosi", "name": { "value": "Assosi An Abi Amr" } },
+    { "id": "khalaf", "name": { "value": "Khalaf An Hamzah" } },
+    { "id": "ibn_thakwan", "name": { "value": "Ibn Thakwan An Ibn Amer" } },
+    { "id": "albizi", "name": { "value": "Albizi An Ibn Katheer" } },
+    { "id": "aldori", "name": { "value": "Aldori An Abi Amr" } },
+    { "id": "qunbol", "name": { "value": "Qunbol An Ibn Katheer" } },
+    { "id": "shobah", "name": { "value": "Shobah An Asim" } }
   ]
-}
+} 
